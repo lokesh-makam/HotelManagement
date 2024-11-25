@@ -15,7 +15,6 @@ public class UpdateCheck extends JFrame {
 	private JPanel contentPane;
 	private JTextField txt_ID;
 	private JTextField txt_Status;
-	private JTextField txt_Date;
 	private JTextField txt_Time;
 	private JTextField txt_Payment;
 
